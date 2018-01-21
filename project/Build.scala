@@ -119,7 +119,7 @@ object Build {
   }
 
   val commonSettings = Seq(
-      scalaVersion := "2.11.11",
+      scalaVersion := "2.12.3",
       organization := "org.scala-js",
       version := scalaJSVersion,
 
