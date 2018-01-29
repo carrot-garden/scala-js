@@ -9,3 +9,7 @@ target/
 /.idea/
 /.idea_modules/
 bin/
+
+.cache*
+*.sjsir
+*.class
